@@ -103,7 +103,7 @@ def envoyer_commandes_servos(angles_corriges: tuple):
 # ---------------------------------------------------------------
 def journaliser_erreur(message: str):
     """
-    Responsable : Binome
+    Responsable : Tresor
     -----------------------------------------------------------
     Entrée :
         - message : texte décrivant l’erreur
@@ -121,7 +121,7 @@ def journaliser_erreur(message: str):
 # ---------------------------------------------------------------
 def main():
     """
-    Responsable : Tous ensemble
+    Responsable : Nadia
     -----------------------------------------------------------
     Description :
         Point d’entrée du programme.
