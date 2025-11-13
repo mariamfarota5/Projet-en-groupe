@@ -85,7 +85,7 @@ def appliquer_calibration(angles: tuple, erreurs: dict) -> tuple:
 # ---------------------------------------------------------------
 def envoyer_commandes_servos(angles_corriges: tuple):
     """
-    Responsable : [NIKE DJATENG]
+    Responsable : Nadia Zorom
     -----------------------------------------------------------
     Entrée :
         - angles_corriges : angles à envoyer aux servos
@@ -121,7 +121,7 @@ def journaliser_erreur(message: str):
 # ---------------------------------------------------------------
 def main():
     """
-    Responsable : Nadia
+    Responsable : Nike Djateng
     -----------------------------------------------------------
     Description :
         Point d’entrée du programme.
